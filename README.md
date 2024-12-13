@@ -65,5 +65,5 @@ module.exports = {
 - Tester la transaction
 
 ##### Test
-- [Regarder la vidéo sur Google Drive]([https://drive.google.com/file/d/ID_DU_FICHIER/view](https://drive.google.com/drive/folders/1IgFx2AnHFEUDAqp93OecQMw0qOSvEr55?usp=sharing))
+- [Regarder la vidéo sur Google Drive](https://drive.google.com/drive/folders/1IgFx2AnHFEUDAqp93OecQMw0qOSvEr55?usp=sharing)
 
