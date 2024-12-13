@@ -22,6 +22,7 @@ Développer une interface web intuitive pour enregistrer, suivre et gérer les c
 
 **5. Réduire les coûts administratifs :**  
 Éliminer les intermédiaires coûteux grâce à une plateforme décentralisée et sécurisée.
+![462584314_1100632688363589_2520636821334146222_n](https://github.com/user-attachments/assets/7e99c0d4-d0d4-4c7e-a991-dfd12427f467)
 
 ### :computer: Installation
 
